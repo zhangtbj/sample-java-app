@@ -2,4 +2,4 @@
 
 ## sample-java-app
 
-For test1
+For test2
